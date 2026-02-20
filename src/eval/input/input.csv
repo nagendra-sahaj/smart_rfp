@@ -1,0 +1,188 @@
+Sl. No.,Prompt,Response
+1,Are there any contradictions between the scope of works sections in different parts of the RFP?,"Based on the provided context, there is a potential contradiction between the scope of works sections in different parts of the RFP.
+
+In section 18.02.2, the scope of work covers the proposed method of cable laying, excavation, construction of ducts, laying of pipes, and supply of materials, labour, and tools. However, in section 1.6.1, the scope of work for the Transmission Service Provider (TSP) includes establishing, operating, and maintaining the project, including survey, project report formulation, arranging finance, project management, necessary consents, and permits, land compensation, design, engineering, equipment, material, construction, erection, testing & commissioning.
+
+It seems that section 18.02.2 focuses on the specific task of cable laying and related activities, whereas section 1.6.1 covers a broader range of activities related to project management, finance, and engineering. While there is some overlap between the two sections, it appears that section 1.6.1 has a more comprehensive scope of work.
+
+However, I would like to note that this is not a clear-cut contradiction, and it is possible that the two sections are intended to be complementary rather than conflicting."
+2,"Do the guaranteed losses mentioned in different sections align, or are there inconsistencies?","I noticed that there are multiple mentions of guaranteed losses in the provided context. However, for the purpose of this answer, I will identify the sections that mention guaranteed losses and compare them to check for inconsistencies.
+
+Section x (repeated) mentions: ""The guaranteed values of the losses quoted by the successful bidder will be verified...""
+
+Section vii mentions: ""In case the declared guaranteed/quoted losses are in deviation to the losses arrived as per calculation, the higher of the two would be considered for evaluation of the offer and the lower of the losses would be considered for acceptance of the cable.""
+
+Section viii mentions: ""On testing, if it is found that actual losses are more than the values guaranteed/quoted in Schedule-14, penalty shall be recovered from the bidder at the rates triple the capitalisation cost indicated under sl. no. (ii) above.""
+
+Section ix mentions: ""The cable would be accepted only if the measured values/test values/actual values on the finished product (on testing) is found to be within +5% of the guaranteed/quoted values for each type of losses subject to recovery of penalty""
+
+Section 10.09.0 mentions: ""Regarding guaranteed losses, measured losses and capitalization of losses for the purpose of evaluation of the offer refer respective clause in SCC of bid document.""
+
+Based on these mentions, it appears that there is consistency in the terminology used to refer to the guaranteed losses. However, there is a slight discrepancy in the phraseology used to describe the relationship between the declared guaranteed/quoted losses and the calculated losses (Section vii).
+
+In Section vii, it is mentioned that ""the higher of the two would be considered for evaluation of the offer and the lower of the losses would be considered for acceptance of the cable."" In contrast, in Sections viii and ix, there is no mention of considering the higher or lower of the two losses.
+
+Therefore, I would conclude that while the terminology used is consistent, there is a slight inconsistency in the phraseology used to describe the relationship between the declared guaranteed/quoted losses and the calculated losses."
+3,Is the evaluation process for technical and financial bids consistent across the annexures?,"Based on the provided context, the evaluation process for technical bids is mentioned in Clause 3.2 to 3.4, but the process for financial bids is not explicitly mentioned in the context you provided.
+
+However, the process for submitting and evaluating the Financial Bid is mentioned separately from the Technical Bid evaluation process, and the format for Financial Bid is provided as Annexure 21.
+
+It can be inferred that the evaluation process for financial bids is also consistent and has a specific format, but the context does not provide enough information about the evaluation process itself.
+
+So, the answer is: The context suggests that the evaluation process for technical bids is consistent as it is mentioned in Clause 3.2 to 3.4, but the consistency of the evaluation process for financial bids is not explicitly stated."
+4,List risks associated with civil and structural works mentioned in the RFP.,"According to the RFP document, the following risks associated with civil and structural works are mentioned:
+
+Damage to property: The successful bidder shall take all precautions during excavation, trenching, and other activities to protect public and private properties and avoid accidental damage (Section 18.02.10).
+Accidental damage to property, which the successful bidder shall bear all responsibilities and liabilities for, and costs of damages caused (Section 18.02.10).
+Cable laying over bridges, which requires cables to be laid in ducts (Section 18.02.11).
+Potential defects in materials or equipment supplied by the successful bidder, which may not comply with specifications (Section 19.01.04).
+Requirement to perform additional tests or inspections to ensure compliance with specifications if materials or goods are not found in conformity (Section 19.02.3).
+Need to provide test pieces to determine the quality of material supplied under the contract, and rejection of whole material if any test piece fails to comply with requirements (Section 19.04.0)."
+5,Highlight risks related to guaranteed losses clauses.,"Based on the provided context, the following risks related to guaranteed losses clauses can be identified:
+
+Penalty Recovery: If the actual losses are more than the values guaranteed/quoted in Schedule-14, the bidder may be liable to pay a penalty at the rate of triple the capitalization cost, as per clause viii). This poses a significant financial risk to the bidder.
+Rejection of Cable: If the measured values/test values/actual values on the finished product (on testing) exceed the limit of 5% of the guaranteed/quoted values for each type of losses subject to recovery of penalty, the cable would be outrightly rejected, as per clause ix).
+Higher Losses Considered for Evaluation: If the declared guaranteed/quoted losses are in deviation to the losses arrived as per calculation, the higher of the two would be considered for evaluation of the offer, as per clause vii). This may lead to a higher cost for the bidder.
+No Incentive for Lower Losses: If the actual losses are found to be less than the guaranteed/quoted values, no incentive would be allowed, as per clause viii). This may lead to a loss of opportunity for the bidder to benefit from lower losses.
+Risk of Rejection due to Calculation Deviation: If there is a deviation between the declared guaranteed/quoted losses and the losses arrived as per calculation, the cable may be rejected, as per clause vii). This poses a risk to the bidder's reputation and financial interests."
+6,Identify risks in the technical requirements that could affect project execution.,"Based on the provided context, the following risks in the technical requirements could affect project execution:
+
+Insufficient equity ownership: The requirement that the Bidding Company / Lead Member must own at least 26% of the project(s) considered for technical experience may create a risk if this equity ownership is not secured.
+Dependence on parent or affiliate: The requirement that the Bidding Company / Lead Member must demonstrate technical experience through projects executed and owned by themselves, their Parent, or their Affiliate(s) may create a risk if the Parent or Affiliate(s) are not reliable or if their financial situation changes.
+Capital expenditure risks: The requirement that the capital expenditure of any single project considered for meeting the technical Qualification Requirement is not less than Rs. …… Crore or equivalent USD* may create a risk if the project costs exceed this threshold.
+Project completion and commissioning risks: The requirement that projects considered for technical experience must have been either wholly completed/commissioned or partly completed projects put under commercial operation and for which operation has commenced till at least seven (7) days prior to the Bid Deadline may create a risk if project completion and commissioning are delayed.
+Environmental compliance risks: The requirement that the Bidder shall furnish an operating environmental compliance history may create a risk if the Bidder is not able to demonstrate a good environmental compliance record.
+Operating reliability risks: The requirement that the Bidder shall furnish an operating reliability over the past five (5) years or since date of commercial operation may create a risk if the Bidder is not able to demonstrate a good operating reliability record.
+These risks can affect project execution if not properly managed or mitigated."
+7,Extract line items from the Data Requirement Sheets (DRS) related to electrical works.,"From the Data Requirement Sheets (DRS), the line items related to electrical works are:
+
+Design, Manufacturer, Testing at works, supply, Civil Engineering works, installation, testing, commissioning of 127/220 kV Single Core, 2000 Sq.mm XLPE underground cable and accessories (Section - DRS, Page 399)
+Design, Manufacturer, Testing at works, supply, Civil Engineering works, installation, testing, commissioning of 127/220 kV Single Core, 2500 Sq.mm XLPE underground cable and accessories (Section - DRS, Page 307)
+The electrical works related line items are:
+
+Design
+Manufacturer
+Testing
+Supply
+Installation
+Testing
+Commissioning"
+8,"Highlight EHS (Environment, Health, Safety) obligations.","I am not sure about that, provided context is not sufficient to answer.
+
+However, I can provide some information related to EHS (Environment, Health, Safety) obligations in the provided context.
+
+While the context doesn't explicitly mention EHS obligations, it does mention 'Measures Relating to Safety & Electric Supply' as part of CEA regulations. This suggests that safety and health considerations are a part of the contract."
+9,Are there any conflicting completion dates mentioned in the RFP?,"I am not sure about that, provided context is not sufficient to answer."
+10,Summarize the BoQ entries for civil works.,"I am not sure about that, provided context is not sufficient to answer."
+11,summarise scope of work,"Based on the provided context, the scope of work for the Bidder includes:
+
+Furnishing an executive summary for each project listed in the table, including:
+Project model (e.g., BOO, BOOT, BOOM)
+Operating environmental compliance history
+Names of supervisory entities or consultants
+Date of commercial operation
+Total duration of operation
+Providing unconsolidated audited annual accounts for the past 5 years, including a Balance Sheet, Profit and Loss Account, Auditors Report, and profit appropriation account.
+Demonstrating technical capability by providing details of projects completed/commissioned or partly completed projects, including:
+Name and location of the project
+Nature of the project
+Voltage level (if applicable)
+Capital cost of the project
+Status of the project
+Percentage of equity owned in the project
+Providing certificates from statutory auditors or clients stating payments received and works commissioned during the past 5 years.
+In case the accounts for the financial year in which the project claimed for meeting qualification requirements have not been audited, providing a declaration duly certified by the statutory auditor and details of computation of capital expenditure.
+The scope of work also includes the calculation of the technical requirement based on the instructions provided in the RFP, which involves using the technical capability of other companies that have executed projects in the infrastructure sector."
+12,Summarize the process for evaluating technical bids before financial bids are opened.,"The process for evaluating technical bids before financial bids are opened is as follows:
+
+Submission of written clarifications/amendments (if any): Bidder submits written clarifications/amendments in the format provided in Annexure-20 by 1700 hours on 30.06.2025.
+Pre-Bid meeting(s): Pre-Bid meeting(s) will be held on 02.07.2025.
+Issue of written clarifications and revised RFP documents: Written clarifications and revised RFP documents will be issued on 18.07.2025.
+Issue of final RFP Project Documents: Final RFP Project Documents will be issued on 28.07.2025.
+Submission of Bid (Online submission of Bid through electronic bidding portal): Technical Bid will be submitted online through electronic bidding portal on 12.08.2025.
+Opening of Technical Bid: Technical Bid will be opened on 12.08.2025.
+Shortlisting and announcement of Qualified Bidders on bidding portal: Qualified Bidders will be shortlisted and announced on the bidding portal on 20.08.2025.
+Submission of original hard copies of Annexure 3, Annexure 4, etc. (if applicable): Original hard copies of Annexure 3, Annexure 4, etc. will be submitted by the Bidder with the lowest Final Offer before issuance of LoI.
+It seems there was a missing detail in the RFP timeline as the shortlisting is done after the opening of Technical Bid. Thus, after opening of Technical Bid on 12.08.2025, shortlisting and announcement of Qualified Bidders on bidding portal will happen."
+13,List criteria used in technical bid evaluation.,"Based on the provided context, the evaluation of Technical Bid in Step III will consider the following criteria:
+
+Technical and financial evaluation of the details/documents furnished by the Bidding Company/Bidding Consortium in support of meeting the Qualification Requirements (as mentioned in Clause 3.4).
+Further, Clause 3.2 also lists the criteria that will cause a Technical Bid to be ""Non-responsive"". These include:
+
+Technical Bid that are incomplete.
+Technical Bid not signed by authorized signatory and/or stamped in the manner indicated in this RFP.
+All pages of the Technical Bid submitted but not initialed by the authorized signatories on behalf of the Bidder.
+Technical Bid not including the covering letter as per Annexure 1.
+Technical Bid contains material inconsistencies in the information and documents submitted by the Bidder, affecting the Qualification Requirements.
+Information not submitted in formats specified in the RFP.
+The Bidder has not submitted a disclosure as per Annexure 13.
+Bidders delaying in submission of additional information or clarifications sought by the BPC.
+However, these non-responsive criteria are not directly used in the technical bid evaluation but rather in the responsiveness check. The actual criteria used in the technical bid evaluation is mentioned in Clause 3.4 as technical and financial evaluation of the details/documents furnished by the Bidding Company/Bidding Consortium in support of meeting the Qualification Requirements."
+14,What are the key factors in financial bid evaluation as described in the RFP?,"The key factors in financial bid evaluation as per the provided context are:
+
+The Financially Evaluated Entity(ies) having a minimum Networth of Rs. ….. Crore or equivalent USD computed as per instructions in the RFP.
+The Networth of any of the last three (3) financial years is not negative.
+The audited annual accounts of any of the last three (3) financial years as provided in Clause 2.2.3, immediately preceding the Bid Deadline.
+Please note that the context mentions that the financial capability of the companies (whose accounts are being merged in the consolidated accounts) shall not be considered again for the purpose of evaluation of the Technical Bid."
+15,Summarize milestones mentioned in the annexures.,"The milestones mentioned in the annexures are:
+
+Date of completion/commissioning/commercial operation
+Commercial operation commencement
+These are mentioned in Note 1 under Important Timelines (2.7.2) in Annexure 1.
+
+Additionally, the following milestones are mentioned:
+
+Projects completed/commissioned and commercial operations commenced
+Projects listed in the attachment (Annexure 7(D))
+Final acceptance certificates
+Certificates of good operating performance"
+16,Explain the grid map diagram in terms of scope of work.,"I am not sure about that, provided context is not sufficient to answer.
+
+The context only mentions ""ANNEXURE 18 - GRID MAP OF THE PROJECT"" but does not describe or explain the grid map diagram. It only mentions that the existing drawings provided are for reference and bidders are advised to visit the substation sites to acquaint themselves with the actual site conditions, layout, topography, etc."
+17,What does the firewall replacement diagram indicate about technical requirements?,"I am not sure about that, provided context is not sufficient to answer."
+18,ummarize the establishing substations diagram,"Based on the provided context, the establishing substations diagram is not explicitly mentioned. However, there are references to different types of diagrams for various substations, such as:
+
+Single Line Diagram (SLD)
+Layout Plan
+Cross Section
+Earthmat Layout
+Additionally, the following diagrams are mentioned:
+
+Sub-station GIS layout
+Substation PDM SLD (Partial Discharge Monitoring System Single Line Diagram)
+These diagrams are required to be submitted during the engineering stage for approval.
+
+In general, these diagrams are used to represent the layout and configuration of the substation, including the positioning of equipment, busbars, and other components."
+19,What new risks are introduced in the clarifications?,"I am not sure about that, provided context is not sufficient to answer.
+
+"
+20,Summarize statutory compliance requirements across all sections.,"The statutory compliance requirements mentioned across all sections include:
+
+Compliance with the laws of India, including but not limited to:
+
+Electricity Act 2003
+Income Tax Act 1961
+Companies Act, 1956 / Companies Act, 2013
+Environment Protection Act 1986
+Forest (Conservation) Act, 1980
+Customs Act
+Foreign Exchange Management Act
+Land Acquisition Act, 1894
+Indian Telegraph Act 1885
+Labor & Employment Laws of India
+Insurance Act
+Compliance with regulations/standards framed by:
+
+Central Commission
+State Commission
+Central Electricity Authority (CEA)
+Compliance with relevant technical codes and standards, including but not limited to:
+
+Grid Code / State Grid Code
+Central Electricity Authority (Installation and Operations of Meters) Regulations, 2006
+Central Electricity Authority (Technical Standards for Connectivity
+Compliance with the KERC (Terms and Conditions for Open Access) Regulations, 2025 and any other relevant KERC regulation as amended from time to time.
+
+Execution of all relevant agreements and adherence to prudent utility practices.
+
+Compliance with the requirements laid down in the RFP, including the unconditional acceptance of the RFP dated 10.06.2025 issued by the BPC."

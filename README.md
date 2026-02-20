@@ -33,6 +33,9 @@ Features:
 - `src/ui/`: Streamlit UI
 	- `app.py`: “RFP Analysis” app (List Collections, Create Collection, Retrieve, Ask a Question)
 
+- `src/eval/`: Evaluation tools
+	- `run_eval.py`: RAG evaluation against labeled prompts/responses using Ragas metrics
+
 ## Quick start
 
 1) Install dependencies (uv recommended)
@@ -88,6 +91,48 @@ Streamlit UI actions:
 - Create Collection — provide a new collection name and upload a PDF to ingest
 - Retrieve — similarity search on the selected collection
 - Ask a Question — answer generation (Q&A) for the selected collection
+
+## Evaluation
+
+The project includes an evaluation script that runs the RAG pipeline on labeled
+prompts/responses and scores the answers using Ragas metrics (faithfulness,
+context recall, answer relevancy, etc.).
+
+### Configure
+
+- Ensure your `.env` contains:
+	- `OPENAI_API_KEY` – for metric LLM
+	- `OPENAI_MODEL` – e.g. `gpt-4.1` (or keep default)
+	- `OPENAI_EMBED_MODEL` – e.g. `text-embedding-3-small` (or keep default)
+	- `GROQ_API_KEY` / `GROQ_MODEL_NAME` – for the Groq-backed RAG chain
+- Edit the top of `src/eval/run_eval.py` if needed:
+	- `INPUT_CSV_PATH` – full path to a CSV with `Prompt` and `Response` columns
+	- `MAX_ROWS` – set to an integer to limit rows for a quick run, or `None` for all
+	- `ENABLED_METRICS` – list of metric keys to compute
+
+### Run evaluation
+
+From the project root (with the venv active):
+
+```bash
+uv run python src/eval/run_eval.py
+```
+
+The script will:
+- Load the labeled prompts/responses from `INPUT_CSV_PATH`
+- Build the Chroma-backed RAG chain once (using Groq + custom prompt)
+- For each row:
+	- Run RAG to get an answer and source documents
+	- Compute the selected Ragas metrics asynchronously
+	- Print per-row evaluation time and metric scores
+- Write results to:
+	- `src/eval/output/eval_results.csv`
+
+Each row in `eval_results.csv` includes:
+- `row_index`, `Prompt`, `Response`, `rag_answer`
+- `eval_time_sec` (per-row evaluation time)
+- One column per enabled metric (e.g. `Faithfulness`, `Context Recall`, `Answer Relevancy`)
+- Optional `error` column if metric evaluation failed for that row (RAG answer is still recorded)
 
 ## Notes
 
